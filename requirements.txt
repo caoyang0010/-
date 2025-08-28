@@ -1,0 +1,5 @@
+streamlit
+akshare
+plotly
+pandas
+streamlit-autorefresh
